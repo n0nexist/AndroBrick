@@ -1,2 +1,3 @@
-# AndroBrick
-Send android devices into a permanent bootloop via ADB
+# ⚠️⚠️⚠️ WARNING ⚠️⚠️⚠️
+# THIS SCRIPT WILL PROBABLY DAMAGE YOUR PHONE PERMANENTLY.
+# USE YOUR BRAIN.
